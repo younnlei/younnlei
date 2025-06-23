@@ -7,7 +7,7 @@
 <p align="center">✮ ⋆ ˚｡𖦹 ⋆｡°✩ ✮ ⋆ ˚｡𖦹 ⋆｡°✩</p>
 
 **full stack dev**  
-**currently -  assistant instructor at computer information systems department @ RFCUNY**
+**currently -  assistant instructor @ Research Foundations City University of New York computer information systems department**
 
 💻 **Languages:** JavaScript • TypeScript • Python • SQL (PostgreSQL)  
 🖼️ **Frontend:** React • Next.js • Redux • Tailwind CSS • Material-UI  
