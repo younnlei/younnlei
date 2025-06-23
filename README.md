@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/OjzCsUydYUEAAAAd/cute-cha-pri.gif" width="300" alt="cute gif"/>
 </p>
 
-# this is youn! :D
+# Hi, this is Youn! :D
 
 <p align="center">✮ ⋆ ˚｡𖦹 ⋆｡°✩ ✮ ⋆ ˚｡𖦹 ⋆｡°✩</p>
 
@@ -15,6 +15,10 @@
 🛠️ **Tools:** Docker • Vite • Webpack • Jest • Vitest • Prometheus • Grafana  
 ☁️ **Cloud & DevOps:** AWS • GitHub Actions • CI/CD  
 💾 **Databases:** PostgreSQL • MongoDB
+
+---
+
+🎵 **While you're here, listen to [Men I Trust](https://youtu.be/9IZKcb3LndA?si=wW0VF54thy79XR_J)** (get to know my vibe ✨)
 
 ---
 
