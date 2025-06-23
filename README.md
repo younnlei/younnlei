@@ -18,7 +18,7 @@
 
 ---
 
-🎵 **While you're here, listen to [Men I Trust](https://youtu.be/9IZKcb3LndA?si=wW0VF54thy79XR_J)** (get to know my vibe ✨)
+🎵 **While you're here, listen to [Men I Trust](https://youtu.be/9IZKcb3LndA?si=wW0VF54thy79XR_J)** ✨
 
 ---
 
