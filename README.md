@@ -1,10 +1,10 @@
-
+# Hi, this is Youn! :D
 
 <p align="center">
-  <img src="https://tenor.com/e99USOmXREz.gif" width="300" alt="cute gif"/>
+  <img src="https://media1.tenor.com/m/OjzCsUydYUEAAAAd/cute-cha-pri.gif" width="300" alt="cute gif"/>
 </p>
-# this is youn! :D
-## 👋 Full Stack Developer 
+
+## Full Stack Developer 
 ## 🎓 Currently Assistant Instructor at Computer Information Systems Department @ RFCUNY
 
 ---
