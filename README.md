@@ -6,8 +6,8 @@
 
 <p align="center">✮ ⋆ ˚｡𖦹 ⋆｡°✩ ✮ ⋆ ˚｡𖦹 ⋆｡°✩</p>
 
-**Full Stack Developer**  
-**Currently Assistant Instructor at Computer Information Systems Department @ RFCUNY**
+**full stack dev**  
+**currently -  assistant instructor at computer information systems department @ RFCUNY**
 
 💻 **Languages:** JavaScript • TypeScript • Python • SQL (PostgreSQL)  
 🖼️ **Frontend:** React • Next.js • Redux • Tailwind CSS • Material-UI  
@@ -18,7 +18,7 @@
 
 ---
 
-🎵 **While you're here, listen to [Men I Trust](https://youtu.be/9IZKcb3LndA?si=wW0VF54thy79XR_J)** ✨
+🎵 **while you're here, listen to [Men I Trust](https://youtu.be/9IZKcb3LndA?si=wW0VF54thy79XR_J)** ✨
 
 ---
 
