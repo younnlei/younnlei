@@ -7,7 +7,7 @@
 <p align="center">✮ ⋆ ˚｡𖦹 ⋆｡°✩ ✮ ⋆ ˚｡𖦹 ⋆｡°✩</p>
 
 **full stack dev**  
-**currently -  assistant instructor @ Research Foundations City University of New York computer information systems department**
+**currently -  assistant instructor @ NYC Tech Talent Pipeline (TTP) Residency Program @ BMCC**
 
 💻 **Languages:** JavaScript • TypeScript • Python • SQL (PostgreSQL)  
 🖼️ **Frontend:** React • Next.js • Redux • Tailwind CSS • Material-UI  
@@ -17,9 +17,4 @@
 💾 **Databases:** PostgreSQL • MongoDB
 
 ---
-
-🎵 **while you're here, listen to [Men I Trust](https://youtu.be/9IZKcb3LndA?si=wW0VF54thy79XR_J)** ✨
-
----
-
 
