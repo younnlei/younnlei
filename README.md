@@ -7,7 +7,7 @@
 <p align="center">✮ ⋆ ˚｡𖦹 ⋆｡°✩ ✮ ⋆ ˚｡𖦹 ⋆｡°✩</p>
 
 **full stack dev**  
-**currently -  assistant instructor @ NYC Tech Talent Pipeline (TTP) Residency Program @ BMCC**
+
 
 💻 **Languages:** JavaScript • TypeScript • Python • SQL (PostgreSQL)  
 🖼️ **Frontend:** React • Next.js • Redux • Tailwind CSS • Material-UI  
